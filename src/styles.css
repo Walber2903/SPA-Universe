@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-sizing: 62.5%;
+}
+
+#home {
+    background-image: url("../assets/mountains-universe-1.png");
+    background-color: #FFFFFF;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
